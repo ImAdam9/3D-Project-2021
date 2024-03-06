@@ -3,12 +3,20 @@
 
 Drag & drop everything in the solutions directory
 
-- CONTROLS -
+Dear ImGui was used for Toggling implemented techniques.
+
+stb_image was used for loading textures to assign them to shaderResourceViews.
+
+CONTROLS: 
+
 WASD - Move Forward, Left, Back, Right
+
 ARROW KEYS - Look Up, Left, Down, Right
+
 E - Move Up
+
 Q - Move Down
+
 L - Move Light To Your Position
 
-Dear ImGui was used for Toggling implemented techniques
-stb_image was used for loading textures to assign them to shaderResourceViews
+
